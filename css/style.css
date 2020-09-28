@@ -455,7 +455,146 @@ a:hover{
     font-family: 'Roboto', sans-serif;
     font-style: italic;
 }
-/*================ navbar part css ===================*/
+/*================ footer part css ===================*/
+
+#footer{
+    background: #f8f8f8;
+    padding-top: 160px;
+    padding-bottom: 130px;
+}
+
+.footer-item h2{
+    color: #ccc;
+    font-size: 46px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 15px;
+}
+
+.footer-item p{
+    color: #999;
+    font-size: 15px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    line-height: 24px;
+    padding-bottom: 25px;
+}
+
+.footer-item h6{
+    color: #333;
+    font-size: 18px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    border-bottom: 1px solid #e5e5e5;
+    padding-bottom: 15px;
+}
+
+.footer-item h6 span{
+    color: #333;
+    font-size: 14px;
+    font-weight: 400;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.footer-item h5{
+    color: #999;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    padding-top: 10px;
+}
+
+.footer-item h5 i{
+    color: #95e1d3;
+    font-size: 16px;
+    padding: 0 8px;
+}
+
+.sub button{
+    color: #fff;
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Montserrat', sans-serif;
+    background: #95e1d3;
+    padding: 15px 33px;
+    border: 0;
+    position: absolute;
+    top: 0;
+    right: 0;
+}
+
+.sub{
+    margin-top: 33px;
+    position: relative;
+
+}
+
+.sub input{
+    height: 50px;
+    border: 1px solid #e7e7e7;
+    padding-left: 18px;
+    width: 100%;
+}
+
+.sub input::placeholder{
+    color: #ccc;
+    font-size: 15px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;  
+    line-height: 24px;
+    text-transform: capitalize;
+}
+
+.footer-item h3{
+    color: #333;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+}
+
+.ftr-blog2 h5{
+    color: #333;
+    font-size: 12px;
+    font-weight: 500;
+    font-family: 'Montserrat', sans-serif;    
+}
+.ftr-blog2 p{
+    color: #999;
+    font-size: 13px;
+    font-weight: 300;
+    font-family: 'Roboto', sans-serif; 
+    font-style: italic;   
+}
+
+.footer-gal h4{
+    color: #333;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: 'Montserrat', sans-serif;
+    text-transform: uppercase;
+    padding-bottom: 30px;
+}
+
+.footer-gal img{
+    padding-top: 4px;
+}
+
+.ftr-link a{
+    color: #333;
+    font-size: 13px;
+    font-weight: 400;
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+}
+
+
+
+
 
 /*================ navbar part css ===================*/
 
